@@ -5,3 +5,9 @@ Um cursos para iniciantes aprenderem a trabalhar com Github.
 Além disso, vamos trabalhar com GitFlox.
 
 Confira no YouTube!
+
+----
+
+pessoas participantes:
+
+- Téo
