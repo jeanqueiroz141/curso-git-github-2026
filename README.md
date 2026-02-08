@@ -4,7 +4,9 @@ Um cursos para iniciantes aprenderem a trabalhar com Github.
 
 Além disso, vamos trabalhar com GitFlox.
 
-Confira no YouTube!
+Confira no YouTube! Segue o link:
+
+[Curso Git 2025](https:youtube.com/@teomewhy)
 
 ## Fluxo de trabalho Git local
 
